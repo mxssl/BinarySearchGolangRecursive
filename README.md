@@ -1,6 +1,6 @@
 # Binary Search
 
-Binary Search algorithm implemented in Go (Golang) by using recursion.
+[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm implemented in Go (Golang) by using recursion.
 
 `Time Complexity: O(log(n))`
 
